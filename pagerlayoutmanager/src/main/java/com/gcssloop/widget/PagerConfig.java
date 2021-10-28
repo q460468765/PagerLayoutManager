@@ -24,7 +24,7 @@ package com.gcssloop.widget;
 
 /**
  * 作用：Pager配置
- * 作者：GcsSloop
+ * 作者：GcsSloop_
  * 摘要：主要用于Log的显示与关闭
  */
 public class PagerConfig {
